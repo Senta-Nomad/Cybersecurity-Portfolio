@@ -9,8 +9,7 @@ with foundational courses and evolving into hands-on projects.
 ## Projects
 Below are my projects, organized in folders within this repository: 
 
-- **[Cisco Introduction to Cybersecurity]
-- (./Cisco-Course/Cisco-Cybersecurity-Writeup.md)**
+- **[Cisco Introduction to Cybersecurity](./Cisco-Course/Cisco-Cybersecurity-Writeup.md)**
 - Completed Cisco's *Introduction to Cybersecurity* course, learning about cyber threats, their impacts, and the shortage of professionals in the field. This write-up summarizes my key takeaways and marks the start of my cybersecurity journey.
 - *Completed: May 2025*
 
