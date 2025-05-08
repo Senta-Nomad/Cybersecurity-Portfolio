@@ -13,6 +13,10 @@ Below are my projects, organized in folders within this repository:
 - Completed Cisco's *Introduction to Cybersecurity* course, learning about cyber threats, their impacts, and the shortage of professionals in the field. This write-up summarizes my key takeaways and marks the start of my cybersecurity journey.
 - *Completed: May 2025*
 
+- **[Great-Learning: Splunk> Tutorial](./Great-Learning/Great-Learning Splunk Tutorial.md)**
+- Completed Splunk> Tutorial by Ramendra Tripathi. This writeup covers the key components of what I learned regarding Monitoring IT, Infrastructure, Analyzing Machine-Generated Data, and how to create actionalbe insights. It has greatly boosted my confidence in using Splunk> for IT, and im eager to apply these skills in future projects!
+- *Completed: May 2025*
+
 - *More projects coming soon as I explore ethical hacking, scripting, and network defense!*
 
 - # Structure
