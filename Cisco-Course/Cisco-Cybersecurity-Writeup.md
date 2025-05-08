@@ -9,4 +9,6 @@ I'm grateful to Cisco for providing this accessible, high-quality course, which 
 contribute to a safer digital world. This milestone marks the beginning of my journey in cybersecurity, and I'm excited to share my progress and projects
 on Github as I grow in this dynamic field.
 
+Check out my Certificate: [https://credly.com/badges/56e15022-13ea-4881-8193-b0583e46147f/public_url]
+
 *Completed: May 2025*
